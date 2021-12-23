@@ -8,7 +8,7 @@ A perfection win takes place with complete elegance in Trade, Diplomacy,
 
 
 
-Resources: 
+Resources:: 
 SOLs
 Food 
 

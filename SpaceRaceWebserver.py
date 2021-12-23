@@ -21,7 +21,7 @@ def battle(red, blue):
 
 
 
-v = 1
+v = 2
 b = 2
 z = 5
 l = 5
