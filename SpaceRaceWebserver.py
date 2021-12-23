@@ -7,7 +7,7 @@ def hello_world():
 
 
 
-# Battle Calculatorr
+# Battle Calculatorrr
 
 def battle_stat(winner):
     print(winner +  "won by")
