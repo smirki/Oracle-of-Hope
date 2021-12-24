@@ -40,20 +40,23 @@ There are 3 ways to win - Perfection, Domination, and Creative, but only one per
 - Copper Ore - Obained by mining with builders, Miners
 - Limestone - Obained by mining with builders, Miners
 - Food - Outdoor farms, Glass Farms, Biodomes, Biospheres
+- Water Deposits
 
 #### Resource Allocation:
 - Miners
 - Excavators
-- Solar Panels
-- Solar Farms
+- Solar Panels, Solar Farms
+- Water Drillers, Water Smelters, Piping
 
-#### Unit Types:
-- Hero ( MasterCheif )
-- Builder
-- Close Combat Sparkies
-- Ranged Lazer Soldiers
-- Hoverboard Cavalry
-- Special Units 1-3
+#### Unit Types: | Starting units
+- Hero ( MasterCheif ) | 1
+- Builder | 15
+- Close Combat Sparkies | 10
+- Ranged Lazer Soldiers | 10
+- Hoverboard Cavalry | 5
+- Special Units 1 | 3
+- Special 2 | 3
+- Special 3 | 3
 
 #### Ship/Transport Types: 
 
@@ -79,7 +82,13 @@ Aversity is prevalent everywhere, even in space. You can get boarded, attacked b
 - Refinery
 - Barracks
 - Research Bunker
-- Academy for training
+- Academy for training / upgrading units
+- Science Facility
+- Factory 
+- Stargate
+- Nuclear Silo
+- Particle Accelerator
+
 
 #### Technology Tree:
 
@@ -87,12 +96,46 @@ Aversity is prevalent everywhere, even in space. You can get boarded, attacked b
 
 And as always, the winner gets different foods! Perfection - Elegant Risoto, Domination - Pan Pizza, Creative - Fritoe'd Torus.
 
+### Starmap:
+#### Planets:
+- Zelia
+- Rilea
+- Verinus
+- Koccuna
+- Xunninda
+- Lerus
+- Huria
+- Direnia
+- Mignoth
+- Yidronoe
+- Reinope
+- Luaturn
+- Striyilara
+- Dretania
+
+#### Planetary Biome:
+- Grasslands Biome
+- Forest Biome
+- Sea Biome
+- Desert Biome
+- Tundra Biome
+
+#### Stars:
+- Claens
+- Vriac
+- Akrins
+- Zaem
+
 ### Glossary:
 
 
 #### TO-DO:
 - Sqlite for persistance and crashes
+    - Solved with Pickle
 - Autoscheduler for farming, building, mining, and unit generation
 - Dashboard for updates
+    - Need to make bindings for it
 - Dashboard for inputs
+    - Need to make html forms for it
 - Battle Calculator
+- Distance + Time Calculator
