@@ -35,6 +35,7 @@ There are 3 ways to win - Perfection, Domination, and Creative, but only one per
 #### Resources:
 
 - SOLs - Obtained by Solar Panels or Harvesting Solar energy
+    - Used for obtaining power to operate machinery
 - Iron Ore - Obained by mining with builders, Miner
 - Copper Ore - Obained by mining with builders, Miners
 - Limestone - Obained by mining with builders, Miners
@@ -43,7 +44,8 @@ There are 3 ways to win - Perfection, Domination, and Creative, but only one per
 #### Resource Allocation:
 - Miners
 - Excavators
-- 
+- Solar Panels
+- Solar Farms
 
 #### Unit Types:
 - Hero ( MasterCheif )
@@ -71,7 +73,16 @@ Aversity is prevalent everywhere, even in space. You can get boarded, attacked b
 - Approached by Smugglers - May initate *bad* trade
 - Approached by Space Patrol
 
+#### Building Types
+- Command Center
+- Supply Depot
+- Refinery
+- Barracks
+- Research Bunker
+- Academy for training
+
 #### Technology Tree:
+
 
 
 And as always, the winner gets different foods! Perfection - Elegant Risoto, Domination - Pan Pizza, Creative - Fritoe'd Torus.
