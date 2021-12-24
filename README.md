@@ -50,13 +50,13 @@ There are 3 ways to win - Perfection, Domination, and Creative, but only one per
 
 #### Unit Types: | Starting units
 - Hero ( MasterCheif ) | 1
-- Builder | 15
-- Close Combat Sparkies | 10
-- Ranged Lazer Soldiers | 10
-- Hoverboard Cavalry | 5
-- Special Units 1 | 3
-- Special 2 | 3
-- Special 3 | 3
+- Builder | 30
+- Close Combat Sparkies | 20
+- Ranged Lazer Soldiers | 20
+- Hoverboard Cavalry | 10
+- Special Units 1 | 6
+- Special 2 | 6
+- Special 3 | 6
 
 #### Ship/Transport Types: 
 

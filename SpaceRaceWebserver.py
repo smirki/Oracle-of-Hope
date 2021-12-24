@@ -4,6 +4,7 @@ from threading import Lock
 import pickle
 from BattleFunctions import *
 
+
 async_mode = None
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'secret!'
